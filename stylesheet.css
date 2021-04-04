@@ -1,9 +1,14 @@
+#here{width:auto;height:90vh;}
+#now{width:auto;height:90vh;}
 #title{text-align: center;}
-#here{height:90vh;width:auto;}
-#now{height:90vh;width:auto;}
-.img-thumbnail {float:left;}
-.imgmain{margin: auto; width: 100%; height: auto;}
-.mainparent{text-align: center;}
-.mainchild{margin: auto;}
-.maintext{text-align: left;}
+
 .caption{text-align: center;}
+.container{float:left;}
+.imgmain{margin: auto; width: 100%; height: auto;}
+.img-thumbnail {float:left;}
+.index{float:left;}
+.mainchild{margin: auto;}
+.mainparent{text-align: center;}
+.maintext{text-align: left;}
+
+ul { list-style-type: none; }
